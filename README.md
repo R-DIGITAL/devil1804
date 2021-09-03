@@ -7,3 +7,4 @@
 
 #### [start](https://github.com/R-DIGITAL/devilbox/wiki/start)
 #### [stop](https://github.com/R-DIGITAL/devilbox/wiki/stop)
+#### [prepare](https://github.com/R-DIGITAL/devilbox/wiki/prepare)
